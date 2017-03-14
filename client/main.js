@@ -1,0 +1,1 @@
+import simpleweatherjs from 'simpleweather'
